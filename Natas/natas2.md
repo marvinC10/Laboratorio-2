@@ -4,6 +4,6 @@
 
 **Usuario:** natas2
 
-**Solución:** la contraseña estaba en el código fuente de la página
+**Solución:** la contraseña estaba oculto en el directorio "/files"
  
-**Contraseña:** TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI
+**Contraseña:** 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
